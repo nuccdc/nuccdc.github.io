@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## What is CCDC?
+The [Collegiate Cyber Defense Competition][ccdc] is an annual [red-team vs. blue-team][redblue] competition between colleges and universities in the United States.
 
-You can use the [editor on GitHub](https://github.com/nuccdc/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The competition is split into various regions across the US, and our team is part of the [Northeast region][ne-region].
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[ccdc]: https://www.nationalccdc.org/
+[redblue]: https://securitytrails.com/blog/cybersecurity-red-blue-team
+[ne-region]: https://neccdl.org/neccdc/
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How do I join?
 
-```markdown
-Syntax highlighted code block
+We're glad you're interested in joining the team!
 
-# Header 1
-## Header 2
-### Header 3
+We have an annual tryout process sometime between the end of September and early November, and the competition starts early in the spring semester.
+Everyone is welcome to tryout -- graduate and undergraduate, as well as international students.
 
-- Bulleted
-- List
+You can obtain more information regarding CCDC (including tryouts) and our partner club, NU Security Club, by joining the [NUSec mailing list][mailing-list].
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nuccdc/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[mailing-list]: http://eepurl.com/gDtvtb
