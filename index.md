@@ -13,7 +13,7 @@ The competition is split into various regions across the US, and our team is par
 We're glad you're interested in joining the team!
 
 We have an annual tryout process sometime between the end of September and early November, and the competition starts early in the spring semester.
-Everyone is welcome to tryout -- graduate and undergraduate, as well as international students.
+Everyone is welcome to tryout -- graduates and undergraduates, as well as international students.
 
 You can obtain more information regarding CCDC (including tryouts) and our partner club, NU Security Club, by joining the [NUSec mailing list][mailing-list].
 
