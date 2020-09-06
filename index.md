@@ -1,3 +1,7 @@
+---
+title: NUCCDC
+---
+
 ## What is CCDC?
 The [Collegiate Cyber Defense Competition][ccdc] is an annual [red-team vs. blue-team][redblue] competition between colleges and universities in the United States.
 
