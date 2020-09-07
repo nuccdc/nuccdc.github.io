@@ -1,3 +1,7 @@
+- name: Michael Wang
+  github-id: 11935099
+  desc: |
+    - Our captain
 - name: Kyle Sferrazza
   github-id: 6677292
   desc: |
@@ -6,5 +10,21 @@
     - "Our domain controller is running out of battery!"
 - name: Matthew Kline
   github-id: 31708500
+  desc: |
+    - Focus: Windows
+- name: Fiona McCrae
+  github-id: 35509590
+  desc: |
+    - Focus: Linux
+- name: Brianna Weinstein
+  github-id: 16049373
+  desc: |
+    - Focus: Linux
+- name: Simon Bruklich
+  github-id: 54966150
+  desc: |
+    - Focus: Windows
+- name: Samir Elhelw
+  github-id: 28267872
   desc: |
     - Focus: Windows
