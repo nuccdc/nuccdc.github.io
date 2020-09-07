@@ -11,6 +11,25 @@ The competition is split into various regions across the US, and our team is par
 [redblue]: https://securitytrails.com/blog/cybersecurity-red-blue-team
 [ne-region]: https://neccdl.org/neccdc/
 
+## The Team
+Our team consists of students from many diverse backgrounds and fields of expertise.
+
+<table>
+  <tbody>
+  {% for member in site.data.members %}
+    <tr>
+      <td>
+        <img class="face" src="https://avatars2.githubusercontent.com/u/{{member.github-id}}?s=100"/>
+      </td>
+      <td>{{member.name}}</td>
+      <td>
+        {{member.desc | markdownify}}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
 
 ## How do I join?
 
