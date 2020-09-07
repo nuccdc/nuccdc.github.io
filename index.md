@@ -19,7 +19,7 @@ Our team consists of students from many diverse backgrounds and fields of expert
   {% for member in site.data.members %}
     <tr>
       <td>
-        <img class="face" src="https://avatars2.githubusercontent.com/u/{{member.github-id}}?s=100"/>
+        <img class="face" src="https://github.com/{{member.github}}.png?size=100"/>
       </td>
       <td>{{member.name}}</td>
       <td>
