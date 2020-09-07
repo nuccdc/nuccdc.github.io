@@ -1,17 +1,18 @@
 - name: Michael Wang
   github: mwang14
   desc: |
+    - Our coach
+- name: Matthew Kline
+  github: MatthewFKline
+  desc: |
     - Our captain
+    - Focus: Windows
 - name: Kyle Sferrazza
   github: kylesferrazza
   desc: |
     - Focus: Linux
-    - Knows every CLI arg for GNU screen
+    - Knows every CLI argument for GNU screen
     - "Our domain controller is running out of battery!"
-- name: Matthew Kline
-  github: MatthewFKline
-  desc: |
-    - Focus: Windows
 - name: Fiona McCrae
   github: fionamccrae
   desc: |
